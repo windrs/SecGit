@@ -17,6 +17,7 @@ namespace SecGit
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            //Changed in Dev
         }
     }
 }
